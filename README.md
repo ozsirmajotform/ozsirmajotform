@@ -2,8 +2,6 @@
 
 I'm a front-end developer in Jotform.
 
-I'm currently working with [Liberate Science](https://github.com/libscie) on [Hypergraph](https://github.com/hypergraph-xyz/desktop), a P2P desktop application for as-you-go research publishing.
-
 [![ozsirmajotform's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozsirmajotform&theme=graywhite)](https://github.com/ozsirmajotform/github-readme-stats)
 
 <!--
