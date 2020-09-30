@@ -1,8 +1,8 @@
 ### Hi, I'm Alican 👋
 
-I'm a front-end developer in Jotform.
+I'm a front-end developer in Jotform. 🌱 
 
-[![ozsirmajotform's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozsirmajotform&theme=graywhite)](https://github.com/ozsirmajotform/github-readme-stats)
+[![ozsirmajotform's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozsirmajotform&theme=merko)](https://github.com/ozsirmajotform/github-readme-stats)
 
 <!--
 **ozsirmajotform/ozsirmajotform** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
